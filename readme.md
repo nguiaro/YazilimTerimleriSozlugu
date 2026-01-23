@@ -1,3 +1,6 @@
+[![TR](https://img.shields.io/badge/lang-Turkish-red.svg)](readme.md)
+[![EN](https://img.shields.io/badge/lang-English-blue.svg)](readme.en.md)
+
 # 📚 Yazılım Terimleri Sözlüğü (A-Z)
 
 Yazılım Terimleri Sözlüğü, yazılım geliştirme, bilgisayar bilimleri ve teknoloji dünyasına dair kapsamlı, güncel ve anlaşılır açıklamalar içeren bir yazılım terimleri terminolojisi sözlüğü. Yazılıma yeni başlayanlara ya da bir süredir sektörde olup yazılım terimlerine hakim olmadığını düşünen herkese yardımcı olması dileğiyle. 
